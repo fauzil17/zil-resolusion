@@ -7,4 +7,7 @@ Terget
    * sayur sawi putih
    * daun ubi
    * bayam bening
+   * paria
+   * kangkung
 - tidur siang & malam tidur batas jam 8
+   * jam 13 - 15 (siang) --- 20 (malam)
